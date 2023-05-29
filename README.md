@@ -5,18 +5,14 @@ A setup file describing the development setup to work with the threatsmanager op
 Gotta start somewhere…\
 I am starting with Windows Evaluation VirtualBox setup which already contains the Visual Studio Community Edition and Visual Studio Installer installed. You can read about that more in [here](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/).
 
-Clone the actual repo or forked repo of the TMS application you want to work with.
-
-**Forked repo link:** https://github.com/kalyancheerla/threatsmanager.git
-
+Clone the actual repo or forked repo of the TMS application you want to work with.\
+**Forked repo link:** https://github.com/kalyancheerla/threatsmanager.git \
 **Actual repo link:** https://github.com/simonec73/threatsmanager.git
 
 ### Step 1:
 **File:** global.json\
-Here SDK version the project was compatible with, was mentioned as 3.1 (Microsoft .NET Core SDK).
-
-**All .NET versions:** https://dotnet.microsoft.com/en-us/download/dotnet
-
+Here SDK version the project was compatible with, was mentioned as 3.1 (Microsoft .NET Core SDK).\
+**All .NET versions:** https://dotnet.microsoft.com/en-us/download/dotnet \
 **SDK version:** https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-3.1.426-windows-x64-installer
 
 Kindly fetch the above installer and proceed with the appropriate installation instructions.
@@ -31,8 +27,7 @@ Use Visual studio installer to install individual components namely, .NET Framew
 For postsharp license, setup the license file using the instructions from the below link,\
 **Link:** https://doc.postsharp.net/deploymentconfiguration/licensing/deploying-keys
 
-Place the below file in the repo home directory,
-
+Place the below file in the repo home directory,\
 **Filename:** postsharp.config
 ```
 <?xml version="1.0" encoding="utf-8"?>
