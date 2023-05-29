@@ -1,4 +1,4 @@
-# threatsmanager-setup
+# threatsmanager-devsetup
 A setup file describing the development setup to work with the threatsmanager opensource repository.
 
 ### Begin:
@@ -24,7 +24,7 @@ Kindly fetch the above installer and proceed with the appropriate installation i
 ### Step 2:
 Use Visual studio installer to install individual components namely, .NET Framework 4.7.2, 4.8 and 4.8.1 in the current setup.
 
-![visualstudioinstaller-targeting-packs](https://github.com/kalyancheerla/threatsmanager-setup/assets/32354220/d0eae0e3-140f-478d-9232-802fbb32d62c)
+![visualstudioinstaller-targeting-packs](./visualstudioinstaller-targeting-packs.png)
 
 
 ### Step 3:
